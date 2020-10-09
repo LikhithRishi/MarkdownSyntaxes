@@ -28,6 +28,7 @@ In this repository we will  use markdown syntax
 
 
 [Google](https://www.google.com/?&bih=722&biw=1536&rlz=1C1CHBD_enIN908IN908&hl=en)
+[MarkDownSyntaxes](https://guides.github.com/features/mastering-markdown/)
 
 > We're living the future so
 
